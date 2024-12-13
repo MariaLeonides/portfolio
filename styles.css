@@ -1,0 +1,66 @@
+body {
+    font-family: 
+    'Franklin Gothic Medium', 'Arial font-family: Arial, sans-serif;
+       text-align: center;', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    ext-decoration-style: 50px;
+    p{
+        background-color: rgb(27, 233, 61);
+        text-align: center;
+    }
+     p{
+        background-color: #0f7e05;
+        background-color: #3a43c0;
+        text-decoration: overline;
+    
+    }
+      h1 {
+        background-color: #d81010;
+        text-decoration-skip: 20px;
+         
+    }
+  }
+  
+  .gallery img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid #e1edee;
+  }
+  .gallery img  {
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+    border: 5px;
+  }
+head {
+    text-decoration-style: 50px;
+}
+ @media (max-width: 768px) {
+    /* 
+    (max-widt: 768px)
+  }
+ @media (regla-de-media-queries: valor) {
+/* reglas CSS */
+}
+@media (max-width: 768px) {
+    body {
+    font-size: 16px;
+    }
+    .container {
+    width:45%;
+    margin: 15px auto;
+    }
+    }
+    /* Estilos para pantallas más grandes (a partir de 769px) */
+@media (min-width: 769px) {
+    /* Aquí puedes escribir los estilos que se aplicarán en pantallas
+    más grandes */
+    body {
+    font-size: 18px;
+    }
+    .container {
+    width: 45%;
+    margin: 0 auto;
+    }
+    }
